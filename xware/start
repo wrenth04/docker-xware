@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./portal
+while :; do sleep 10; done
